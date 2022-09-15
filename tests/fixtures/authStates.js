@@ -8,7 +8,7 @@ export const authenticatedState = {
     status: 'authenticated', //'authenticated', ' not-authenticated'
     user: {
         uid: 'abc',
-        name: 'Fernando'
+        name: 'Facundo'
     },
     errorMessage: undefined,
 }
